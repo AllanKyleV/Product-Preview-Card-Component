@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AllanKyleV/Product-Preview-Card-Component)
-- Live Site URL: [Add live site URL here](https://allankylev.github.io/Product-Preview-Card-Component/)
+- Solution URL: [https://github.com/AllanKyleV/Product-Preview-Card-Component]
+- Live Site URL: [https://allankylev.github.io/Product-Preview-Card-Component/]
 
 ## My process
 
